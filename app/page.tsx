@@ -601,7 +601,7 @@ export default function ArchitecturePortfolio() {
           <div className="flex justify-center">
             <div className="glass-morphism px-8 py-4 rounded-2xl">
               <ul className="flex justify-center space-x-8 md:space-x-12 text-sm md:text-base transition-colors duration-500 text-gray-300">
-                {["Home", "Projects"].map((item, index) => (
+                {["Home"].map((item, index) => (
                   <li key={item}>
                     <button
                       className="transition-colors duration-300 relative group font-medium hover:text-white"
