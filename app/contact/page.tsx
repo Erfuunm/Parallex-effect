@@ -55,7 +55,7 @@ export default function ContactPage() {
       {/* Dark Building Background */}
       <div className="absolute inset-0">
         <Image
-          src="/luxury-building.jpg"
+          src="/project10.jpg"
           alt="Luxury building background"
           fill
           className="object-cover opacity-40"
